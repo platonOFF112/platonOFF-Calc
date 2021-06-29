@@ -1,1 +1,0 @@
-# platonOFF-Calc
